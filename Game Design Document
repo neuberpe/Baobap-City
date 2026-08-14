@@ -1,0 +1,44 @@
+Baobap City game design document
+
+Ad Text:
+Baobap city, a city on a out of business offshore plattform west of the Saloum delta and the Gambia river. 
+Inhabitat by the former workers and many more climate crisis refugees, expanded by adding additional oil rigs and pontoons. 
+A new center of business and opportunities due to new international climate crisis laws and regulations. Your target destination to score a big corporate deal. 
+Your deal may change the life of the people here, but exploring the city could also change your deal in a even more beneficial way...
+
+Genre and features:
+Interactive text only story in a near future climate crisis setting. 
+
+Audience:
+People who want to enjoy a interactive story where choices can change the ending.
+
+Selling Point:
+Decisions matter, short story, contemporary theme, exotic place
+
+Player experience and interface:
+Explore a living city by freely choosing, where to go and what do / see.
+Not everything can be experienced in one playthrough.
+Events and choices can alter your options on your business deal.
+
+Game mechanic and interactivity:
+Choices, optional lore at certain places (marked as interactive choice), Day cycle, missable events, multiple endings, random events
+
+Visual and audio style:
+Text only, general map available on major places, no audio?
+
+Platform and tech stack:
+Inkle for the main game, draw.io for map
+
+Roadmap and milestones:
+Concept ... [done]
+Game mechanics definition ...[working]
+Map of the city ... [done]
+Main text grid ... [working]
+Main traverse points ... [working]
+Random events logic ... [working]
+Define story events and endings ...
+Add vignette to places ... 
+Add lore to places ...
+Add day cycle to code ...
+Add events to places ...
+Add endings ...
